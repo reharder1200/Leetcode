@@ -1,2 +1,2 @@
 relate to github.
-branch master.
+branch merged.
